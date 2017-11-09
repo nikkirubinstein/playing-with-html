@@ -2,12 +2,13 @@ WEBVTT
 
 NOTE Paragraph
 
-00:00:04.294 --> 00:00:05.574
+00:00:04.294 --> 00:00:05.574 position:95% align:start
 drop
 
-00:00:15.331 --> 00:00:18.571
+00:00:15.331 --> 00:00:18.571 line 5%
 At the left we can see, oh we can see
 
+Funny
 00:00:18.640 --> 00:00:22.410
 at the right we can see the hat snarlers
 
@@ -15,19 +16,19 @@ at the right we can see the hat snarlers
 everything is safe, perfectly safe
 
 00:00:25.435 --> 00:00:26.285
-<b>Imo?</b>
+<v someone><b>Imo?</b>
 
 00:00:26.350 --> 00:00:27.270
-Imo!?
+<v someone>Imo!?
 
 00:00:29.049 --> 00:00:32.309
-What's happening?
+<v someoneElse>What's happening?
 
 00:00:46.809 --> 00:00:51.189
-Are you hurt?
+<v someone>Are you hurt?
 
 00:00:52.324 --> 00:00:53.674
-I don't think so
+<v someoneElse>I don't think so
 
 00:00:53.712 --> 00:00:55.752
 You?
